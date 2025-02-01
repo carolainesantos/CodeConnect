@@ -1,4 +1,8 @@
-# React + Vite
+# Code Connect 📗
+
+GH-Pages: https://carolainesantos.github.io/CodeConnect/  
+
+Vercel: codeconnect-qhvlgb4gn-carolaine-dos-santos-projects.vercel.app
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
