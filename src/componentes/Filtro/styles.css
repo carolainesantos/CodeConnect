@@ -1,10 +1,11 @@
 .container-filtro ul li {
+    display: flex;
+    align-items: center;
     padding: 0.25em 0.5em;
     background-color: var(--cinza-claro);
     color: var(--cinza-escuro);
     font-size: 18px;
-    border-radius: 4px;
-    
+    border-radius: 4px; 
 }
 
 .container-filtro {
@@ -25,3 +26,9 @@
     color: var(--cinza-medio);
     font-size: 18px;
 }
+
+.container-filtro ul li img {
+    margin-left: 5px; 
+    cursor: pointer; 
+}
+
